@@ -1,0 +1,54 @@
+.logout-btn{
+    position: relative;
+    right: 41em;
+    margin-bottom: 5px;
+}
+
+.nav-form{
+    display: block;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #e9e9e9;
+    width: 100%;
+}
+  
+.topnav {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav a.active {
+    background-color: #0e76cc;
+    color: white;
+}
+
+.topnav .search-container {
+    float: right;
+}
+
+.topnav input[type=text] {
+    padding: 6px;
+    margin-top: 8px;
+    margin-right: 10px;
+    font-size: 17px;
+    border: none;
+}
+
+.topnav .search-container .search-btn {
+    float: right;
+    padding: 6px 10px;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
